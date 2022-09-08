@@ -10,7 +10,7 @@
 //#include <...>
 using namespace std;
 
-#include "../TreeSet_AVL.h"  // propios o los de las estructuras de datos de clase
+#include "../Código C++ TADs bintree y set-20220908/bintree_eda.h"  // propios o los de las estructuras de datos de clase
 
 /*@ <answer>
 
@@ -26,13 +26,43 @@ using namespace std;
  // ================================================================
  //@ <answer>
 
+bool inEquil(bintree<int> const& tree, int& height) {
+
+    int lHei = height, rHei = height;
+
+
+    if (!tree.right().empty()) {
+        rHei++;
+        if (!inEquil(tree.right(), rHei)) return false;
+    }
+    if (!tree.left().empty()) {
+        
+        lHei++;
+        if (!inEquil(tree.left(), lHei)) return false;
+    }
+
+    height = max(lHei, rHei);
+    return abs(rHei - lHei) <= 1;
+
+}
+
 void resuelveCaso() {
 
-    // leer los datos de la entrada
+    
 
+
+    // leer los datos de la entrada
+    int n;
+    bintree<int> tree;
+
+    tree = leerArbol(-1);
     // resolver el caso posiblemente llamando a otras funciones
 
     // escribir la solución
+    int iteration = 0;
+    bool isEquil = inEquil(tree, iteration);
+    cout << (isEquil ? "SI" : "NO") << endl;
+
 }
 
 //@ </answer>

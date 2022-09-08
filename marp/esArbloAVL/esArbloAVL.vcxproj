@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\Código C++ TADs bintree y set-20220908\bintree_eda.h" />
     <ClInclude Include="..\TreeSet_AVL.h" />
   </ItemGroup>
   <ItemGroup>

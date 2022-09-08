@@ -18,6 +18,9 @@
     <ClInclude Include="..\TreeSet_AVL.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\Código C++ TADs bintree y set-20220908\bintree_eda.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EsArblo.cpp">
