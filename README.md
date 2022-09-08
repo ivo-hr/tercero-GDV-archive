@@ -1,1 +1,2 @@
-# t3rc3r0-suputamadre
+# el repo de tercero del puto henrie
+*sad estudiante noises*
