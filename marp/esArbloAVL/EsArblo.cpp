@@ -26,24 +26,26 @@ using namespace std;
  // ================================================================
  //@ <answer>
 
-bool inEquil(bintree<int> const& tree, int& height) {
+bool inEquil(bintree<int> const& tree, int& height, int min, int max) {
 
-    int lHei = height, rHei = height;
+    if (!tree.empty()) {
+        int lHei, rHei;
 
+        bool lEq, rEq;
 
-    if (!tree.right().empty()) {
-        rHei++;
-        if (!inEquil(tree.right(), rHei)) return false;
+        lEq = inEquil(tree.left(), lHei, min, tree.root());
+        rEq = inEquil(tree.right(), rHei, max, tree.root());
+
+        if (lHei < rHei) height = rHei;
+        else height = lHei;
+
+        return (lEq && rEq &&
+            (tree.root() < max) && (tree.root() > min) &&
+            abs(lHei - rHei) <= 1);
     }
-    if (!tree.left().empty()) {
-        
-        lHei++;
-        if (!inEquil(tree.left(), lHei)) return false;
-    }
 
-    height = max(lHei, rHei);
-    return abs(rHei - lHei) <= 1;
-
+    height = 0;
+    return true;
 }
 
 void resuelveCaso() {
@@ -60,7 +62,7 @@ void resuelveCaso() {
 
     // escribir la solución
     int iteration = 0;
-    bool isEquil = inEquil(tree, iteration);
+    bool isEquil = inEquil(tree, iteration, 0, 0);
     cout << (isEquil ? "SI" : "NO") << endl;
 
 }
