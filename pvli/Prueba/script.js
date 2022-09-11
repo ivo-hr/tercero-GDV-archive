@@ -13,7 +13,21 @@ function desaparece(nombre) {
     clas[i].style.visibility='hidden';
   }
 
-  };
+}
+
+function carameldansen(){
+  let clas1 = document.getElementsByClassName('chachi');
+  let clas2 = document.getElementsByClassName('chachi2');
+  for (i = 0; i < clas1.length; i++){
+    clas1[i].className = 'chachi2';
+    //clas1[i].style = name2;
+  }
+  for (i = 0; i < clas2.length; i++){
+    clas2[i].className = 'chachi';
+  }
+
+
+}
   
   // if (clas.style.visibility=='hidden'){
   //   clas.style.visibility='visible';
