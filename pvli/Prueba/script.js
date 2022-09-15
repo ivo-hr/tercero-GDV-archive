@@ -1,7 +1,3 @@
-function devuelveTextoDeAlerta() {
-  return "uooooo! Vaya alerta";
-}
-
 function desaparece(nombre) {
 	let clas = document.getElementsByClassName(nombre);
 
@@ -15,22 +11,16 @@ function desaparece(nombre) {
 
 }
 
-function carameldansen(){
-  let clas1 = document.getElementsByClassName('chachi');
-  let clas2 = document.getElementsByClassName('chachi2');
-  for (i = 0; i < clas1.length; i++){
-    clas1[i].className = 'chachi2';
-    //clas1[i].style = name2;
-  }
-  for (i = 0; i < clas2.length; i++){
-    clas2[i].className = 'chachi';
-  }
+function carameldansen(name){
+  let clas = document.getElementsByClassName(name);
 
+  const colour = Math.floor(Math.random() * 10000000).toString(16);
 
+  for(i = 0; i < clas.length; i++)
+    clas[i].style.color = ("#" + colour);
 }
-  
-  // if (clas.style.visibility=='hidden'){
-  //   clas.style.visibility='visible';
-  // }
-  // else
-  // clas.style.visibility='hidden';
+
+function  caramelAll(){
+  carameldansen('barf');
+  carameldansen('chachi');
+}
