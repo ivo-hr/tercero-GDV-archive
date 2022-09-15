@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f59e2dbc-f505-4789-9db5-0e6bd66b5132}</ProjectGuid>
-    <RootNamespace>esArbloAVL</RootNamespace>
+    <ProjectGuid>{9f9be46a-2d61-4ef1-8afd-f181dde00917}</ProjectGuid>
+    <RootNamespace>kesimo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\TreeSet_AVL.h" />
-    <ClInclude Include="bintree_eda.h" />
+    <ClInclude Include="TreeSet_AVL.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EsArblo.cpp" />
+    <ClCompile Include="2.Centinela.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

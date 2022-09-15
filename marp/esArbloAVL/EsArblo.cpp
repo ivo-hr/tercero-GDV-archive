@@ -7,10 +7,10 @@
 
 #include <iostream>
 #include <fstream>
-//#include <...>
+#include <climits>
 using namespace std;
 
-#include "../Código C++ TADs bintree y set-20220908/bintree_eda.h"  // propios o los de las estructuras de datos de clase
+#include "bintree_eda.h"  // propios o los de las estructuras de datos de clase
 
 /*@ <answer>
 
@@ -34,10 +34,11 @@ bool inEquil(bintree<int> const& tree, int& height, int min, int max) {
         bool lEq, rEq;
 
         lEq = inEquil(tree.left(), lHei, min, tree.root());
-        rEq = inEquil(tree.right(), rHei, max, tree.root());
+        rEq = inEquil(tree.right(), rHei, tree.root(), max);
 
         if (lHei < rHei) height = rHei;
         else height = lHei;
+        height++;
 
         return (lEq && rEq &&
             (tree.root() < max) && (tree.root() > min) &&
@@ -62,7 +63,7 @@ void resuelveCaso() {
 
     // escribir la solución
     int iteration = 0;
-    bool isEquil = inEquil(tree, iteration, 0, 0);
+    bool isEquil = inEquil(tree, iteration, INT_MIN, INT_MAX);
     cout << (isEquil ? "SI" : "NO") << endl;
 
 }

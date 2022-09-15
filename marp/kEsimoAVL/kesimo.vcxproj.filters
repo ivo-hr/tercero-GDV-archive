@@ -15,16 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\TreeSet_AVL.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="bintree_eda.h">
+    <ClInclude Include="TreeSet_AVL.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EsArblo.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="2.Centinela.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
