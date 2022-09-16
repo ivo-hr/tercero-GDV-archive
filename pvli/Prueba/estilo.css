@@ -1,21 +1,17 @@
 h1 {
+  font-family: Arial, Helvetica, sans-serif;
   color: blue;
 }
 
 .clase {
+  font-family: Arial, Helvetica, sans-serif;
   color: red;
 }
 
 .barf {
-  color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
 .chachi{
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-}
-.chachi2{
-  color: pink;
   font-family: Arial, Helvetica, sans-serif;
 }
 
