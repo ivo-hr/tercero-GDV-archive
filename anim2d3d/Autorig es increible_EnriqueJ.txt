@@ -1,0 +1,10 @@
+Con rigify he de admitir que es muy sencillo, ya que el armature inicial te lo da ya hecho y sólo es pinchar y arrastrar.
+Seguramente en un proyecto más grande ya estaría llorando por los suelos pero si que es vaerdad que permite mucho más control sobre cómo
+quieres hacer el esqueleto del bichillo y cuánto pesa cada parte de su cuerpo. En cuanto a dilemas... no le cabe en la cabeza a Rigify el hecho
+de que la vértebra 003 y 004 estén 2 píxeles desalineados, hasta que encontré lo de weight paint habia amanecido 3 veces y NO PARABA DE SELECCIONAR
+2 LIGAMENTOS A LA VEZ.
+
+Pero AutoRig... fue darle a 3 botones en el fitbit y ya estaba hecho. "Uy, los dedos están mal" pues na, a darle otra vez. Intuyo que en cuanto
+el bichejo al que le hagamos rigging se vuelva más complejo le dará un par de pasmos antes de de dar al clavo, pero vamos... noche y día.
+De lo único que me puedo quejar es lo de los dedos y a lo mejor lo de la cabeza que se debe de creer que la tiene echada para atrás, pero nada 
+comparado con lo que me pasó en rigify.
