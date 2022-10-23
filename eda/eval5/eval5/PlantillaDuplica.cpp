@@ -14,7 +14,8 @@ public:
 
         Nodo* p = this->prim;
 
-        while (p != nullptr)
+
+        while (p != nullptr && p->elem != 0)
         {
             auto cont = p->elem;
             Nodo* next = p->sig;
@@ -22,7 +23,7 @@ public:
 
             p->sig = nexC;
 
-            p = next;
+            p = p->sig->sig;
         }
 
     }
