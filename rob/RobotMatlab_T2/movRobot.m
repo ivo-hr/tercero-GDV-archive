@@ -20,7 +20,8 @@ rob.theta(1)=90*pi/180;            % Orientación inicial del robot
 % --------------------------------------------------------------------------
 
 % Readings of encoder sensors (Nl, letf encoder, Nr right encoder):
-E=load("encoder.dat");
+%E=load("encoder.dat");
+E=load("custom_encoder.dat");
 Nl=E(:,1);
 Nr=E(:,2);
 % Para tener el movimiento del robot carge el archivo de datos: Encoder.dat
@@ -74,8 +75,8 @@ rob.theta(i+1)= rob.theta(i) + v;
 
 % ------ Emite señal de ultrasonidos hacia delante --------------
 % ****** RELLENAR ******
-for h=0:361
-thetaScan=h*pi/180; % Dirección donde apunta el sonar respecto a orientación de robot
+for ang=0:361
+thetaScan=ang*pi/180; % Dirección donde apunta el sonar respecto a orientación de robot
 [rangeObj,pts]=sonar(rob,thetaScan);
 if (rangeObj>0), figure(1), plot(pts(:,1),pts(:,2),'.r'); end   
 end
