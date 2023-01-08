@@ -1,0 +1,442 @@
+vertex_program MyFirstShaderVS glsl
+{
+    // nombre del archivo del codigo
+    source MyFirstShaderVS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named_auto modelViewProjectionMatrix worldviewproj_matrix
+    }
+}
+
+fragment_program MyFirstShaderFS glsl
+{
+    // nombre del archivo del codigo
+    source MyFirstShaderFS.glsl
+    default_params // valores para las variable uniform
+    {
+
+    }
+}
+
+material Practica2GLSL/orangeBomb
+{
+    technique
+    {
+        pass
+        {
+            vertex_program_ref MyFirstShaderVS
+            { // params -> default_params
+
+            }
+            fragment_program_ref MyFirstShaderFS
+            { // params -> default_params
+
+            }
+        }
+    }
+}
+
+vertex_program SpaceSkyVS glsl
+{
+    // nombre del archivo del codigo
+    source SpaceSkyVS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named_auto modelViewProjectionMatrix worldviewproj_matrix
+    }
+}
+
+fragment_program SpaceSkyFS glsl
+{
+    // nombre del archivo del codigo
+    source SpaceSkyFS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named texturaL int 0 // Primera unidad de textura
+        param_named texturaM int 1 // Segunda unidad de textura
+        param_named BF float 0.5
+        param_named intLuzAmb float 1.0
+    }
+}
+
+material Practica2GLSL/space
+{
+    technique
+    {
+        pass
+        {
+            vertex_program_ref SpaceSkyVS
+            { // params -> default_params
+
+            }
+            fragment_program_ref SpaceSkyFS
+            { // params -> default_params
+
+            }
+            texture_unit // * -> int_0
+            {
+                texture lightMap.jpg 2d // archivo
+                tex_address_mode clamp // solo configuracion
+                filtering bilinear // de acceso al texel
+            }
+            texture_unit // * -> int_1
+            {
+                texture spaceSky.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+            }
+        }
+    }
+}
+
+vertex_program BombaTeseladaVS glsl
+{
+    // nombre del archivo del codigo
+    source BombaTeseladaVS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named_auto modelViewProjectionMatrix worldviewproj_matrix
+        param_named_auto sintime sintime_0_2pi 10
+        param_named a float 0.25
+        param_named b float 1.25
+    }
+}
+
+fragment_program BombaTeseladaFS glsl
+{
+    // nombre del archivo de codigo
+    source BombaTeseladaFS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named texturaC int 0
+        param_named texturaL int 1 // Primera unidad de textura
+        param_named texturaM int 2 // Segunda unidad de textura
+        param_named intLuzAmb float 1.0
+    }
+}
+
+material Practica2GLSL/bombaTeselada
+{
+    technique
+    {
+        pass
+        {
+            vertex_program_ref BombaTeseladaVS
+            { // params -> default_params
+
+            }
+            fragment_program_ref BombaTeseladaFS
+            { // params -> default_params
+
+            }
+            texture_unit // * -> int_0
+            {
+                texture checker.png 2d // archivo
+                tex_address_mode wrap // solo configuracion
+                filtering bilinear // de acceso al texel
+            }
+            texture_unit // * -> int_1
+            {
+                texture spaceSky.jpg 2d // archivo
+                tex_address_mode mirror // solo configuracion
+            }
+            texture_unit // * -> int_2
+            {
+                texture BumpyMetal.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+            }
+        }
+    }
+}
+
+vertex_program SpaceVS glsl
+{
+    // nombre del archivo del codigo
+    source SpaceVS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named_auto modelViewProjectionMatrix worldviewproj_matrix
+        param_named_auto sintime sintime_0_2pi 60
+        param_named a float 0.25
+        param_named b float 1.25
+    }
+}
+
+fragment_program SpaceFS glsl
+{
+    // nombre del archivo del codigo
+    source SpaceFS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named texturaL int 0 // Primera unidad de textura
+        param_named texturaM int 1 // Segunda unidad de textura
+        param_named BF float 0.5
+        param_named intLuzAmb float 1.0
+    }
+}
+
+material Practica2GLSL/newSpace
+{
+    technique
+    {
+        pass
+        {
+            vertex_program_ref SpaceVS
+            { // params -> default_params
+
+            }
+            fragment_program_ref SpaceFS
+            { // params -> default_params
+
+            }
+            texture_unit // * -> int_0
+            {
+                texture lightMap.jpg 2d // archivo
+                tex_address_mode clamp // solo configuracion
+                filtering bilinear // de acceso al texel
+            }
+            texture_unit // * -> int_1
+            {
+                texture spaceSky.jpg 2d // archivo
+                tex_address_mode mirror // solo configuracion
+            }
+        }
+    }
+}
+
+vertex_program HolesVS glsl
+{
+    // nombre del archivo del codigo
+    source HolesVS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named_auto modelViewProjectionMatrix worldviewproj_matrix
+    }
+}
+
+fragment_program HolesFS glsl
+{
+    // nombre del archivo del codigo
+    source HolesFS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named texturaC int 0
+        param_named texFront int 1 // Primera unidad de textura
+        param_named texBack int 2 // Segunda unidad de textura
+        param_named intLuzAmb float 1.0
+        param_named_auto Flipping render_target_flipping // uno o menos uno
+    }
+}
+
+material Practica2GLSL/holes
+{
+    technique
+    {
+        pass
+        {
+            cull_hardware none
+
+            vertex_program_ref HolesVS
+            { // params -> default_params
+
+            }
+            fragment_program_ref HolesFS
+            { // params -> default_params
+
+            }
+            texture_unit // * -> int_0
+            {
+                texture corrosion.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+                filtering bilinear // de acceso al texel
+            }
+            texture_unit // * -> int_1
+            {
+                texture BumpyMetal.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+            }
+            texture_unit // * -> int_2
+            {
+                texture BeachStones.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+            }
+        }
+    }
+}
+
+vertex_program HolesAndVertexLightingVS glsl
+{
+    // nombre del archivo del codigo
+    source HolesAndVertexLightingVS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named_auto modelViewProjectionMatrix worldviewproj_matrix
+        param_named_auto modelViewMatrix worldview_matrix
+        param_named_auto normalMatrix inverse_transpose_worldview_matrix
+        param_named_auto lightDiffuse light_diffuse_colour 0
+        param_named_auto lightPosition light_position_view_space 0
+        param_named frontMaterialDiffuse float3 0.72 0.57 0.35
+        param_named backMaterialDiffuse float3 0.0 0.6 0.83
+    }
+}
+
+fragment_program HolesAndVertexLightingFS glsl
+{
+    // nombre del archivo del codigo
+    source HolesAndVertexLightingFS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named texturaC int 0
+        param_named texFront int 1 // Primera unidad de textura
+        param_named texBack int 2 // Segunda unidad de textura
+        param_named_auto Flipping render_target_flipping // uno o menos uno
+    }
+}
+
+material Practica2GLSL/holesLight
+{
+    technique
+    {
+        pass
+        {
+            cull_hardware none
+
+            vertex_program_ref HolesAndVertexLightingVS
+            { // params -> default_params
+
+            }
+            fragment_program_ref HolesAndVertexLightingFS
+            { // params -> default_params
+
+            }
+            texture_unit // * -> int_0
+            {
+                texture corrosion.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+                filtering bilinear // de acceso al texel
+            }
+            texture_unit // * -> int_1
+            {
+                texture BumpyMetal.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+            }
+            texture_unit // * -> int_2
+            {
+                texture BeachStones.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+            }
+        }
+    }
+}
+
+vertex_program HolesAndLightingVS glsl
+{
+    // nombre del archivo del codigo
+    source HolesAndLightingVS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named_auto modelViewProjectionMatrix worldviewproj_matrix
+        param_named_auto modelViewMatrix worldview_matrix
+        param_named_auto normalMatrix inverse_transpose_worldview_matrix
+    }
+}
+
+fragment_program HolesAndLightingFS glsl
+{
+    // nombre del archivo del codigo
+    source HolesAndLightingFS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named texturaC int 0
+        param_named texFront int 1 // Primera unidad de textura
+        param_named texBack int 2 // Segunda unidad de textura
+        param_named_auto Flipping render_target_flipping // uno o menos uno
+        param_named_auto lightDiffuse light_diffuse_colour 0
+        param_named_auto lightPosition light_position_view_space 0
+        param_named frontMaterialDiffuse float3 0.72 0.57 0.35
+        param_named backMaterialDiffuse float3 0.0 0.6 0.83
+    }
+}
+
+material Practica2GLSL/holesLight2
+{
+    technique
+    {
+        pass
+        {
+            cull_hardware none
+
+            vertex_program_ref HolesAndLightingVS
+            { // params -> default_params
+
+            }
+            fragment_program_ref HolesAndLightingFS
+            { // params -> default_params
+
+            }
+            texture_unit // * -> int_0
+            {
+                texture corrosion.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+                filtering bilinear // de acceso al texel
+            }
+            texture_unit // * -> int_1
+            {
+                texture BumpyMetal.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+            }
+            texture_unit // * -> int_2
+            {
+                texture BeachStones.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+            }
+        }
+    }
+}
+
+vertex_program SpotLightVS glsl
+{
+    // nombre del archivo del codigo
+    source SpotLightVS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named_auto modelViewProjectionMatrix worldviewproj_matrix
+        param_named_auto modelViewMatrix world_matrix
+        param_named_auto normalMatrix inverse_transpose_world_matrix
+    }
+}
+
+fragment_program SpotLightFS glsl
+{
+    // nombre del archivo del codigo
+    source SpotLightFS.glsl
+    default_params // valores para las variable uniform
+    {
+        param_named textura int 0
+        param_named_auto cutoff costime_0_2pi 10
+        param_named_auto lightDiffuse light_diffuse_colour 0
+        param_named lightPosition float3 0 1 0
+    }
+}
+
+material Practica2GLSL/spotLight
+{
+    technique
+    {
+        pass
+        {
+            vertex_program_ref SpotLightVS
+            { // params -> default_params
+
+            }
+            fragment_program_ref SpotLightFS
+            { // params -> default_params
+
+            }
+            texture_unit // * -> int_0
+            {
+                texture BeachStones.jpg 2d // archivo
+                tex_address_mode wrap // solo configuracion
+            }
+        }
+    }
+}
