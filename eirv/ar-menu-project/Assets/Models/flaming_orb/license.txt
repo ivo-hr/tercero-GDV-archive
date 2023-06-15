@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flaming orb
+* source:	https://sketchfab.com/3d-models/flaming-orb-d7f8cda1e8ae4e458cd674bc18db672c
+* author:	tamminen (https://sketchfab.com/tamminen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flaming orb" (https://sketchfab.com/3d-models/flaming-orb-d7f8cda1e8ae4e458cd674bc18db672c) by tamminen (https://sketchfab.com/tamminen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
