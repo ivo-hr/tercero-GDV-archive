@@ -1,0 +1,1529 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.17.0" title="Shotcut version 23.06.14" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="24" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="00:00:03.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0000_Layer-2.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">fdfab4897fb0c5c43bde55a2b07ff69a</property>
+    <property name="creation_time">2023-06-17T17:27:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0000_Layer-2.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:03.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0001_Layer-6.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">adc4a5a3fcdac7d631eaf16bf722dfdf</property>
+    <property name="creation_time">2023-06-17T17:27:12</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0001_Layer-6.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0002_Layer-1.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">fbed46289f4b98fc04974b309fd9df84</property>
+    <property name="creation_time">2023-06-17T17:27:14</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0003_Layer-8.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">77cf7971fa747f90ccb5dfeca456110d</property>
+    <property name="creation_time">2023-06-17T17:27:16</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0004_Layer-4.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">e438c50eee0692b0fcfa5352676c40fd</property>
+    <property name="creation_time">2023-06-17T17:27:18</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0005_Layer-9.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">4f521a0c7482059b11da3225c1560a91</property>
+    <property name="creation_time">2023-06-17T17:27:20</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0006_Layer-3.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">de79dfdf8d8c8a3fc2e1d1c90d5b7701</property>
+    <property name="creation_time">2023-06-17T17:27:22</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:00:03.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0007_Layer-5.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">31653abdc56704521078191b5f90e54c</property>
+    <property name="creation_time">2023-06-17T17:27:26</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0007_Layer-5.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:00:03.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0008_Background.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">eb7b4123967f3434bf3293496df89d16</property>
+    <property name="creation_time">2023-06-17T17:27:28</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0008_Background.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <chain id="chain0" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </chain>
+  <playlist id="main_bin" title="Shotcut version 23.06.14">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.958"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.958"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.958"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.958"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.958"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.958"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.958"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.958"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.958"/>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:00.750"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:15.083">
+    <property name="length">00:00:15.125</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0007_Layer-5.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="force_aspect_ratio">1</property>
+    <property name="shotcut_aspect_num">1</property>
+    <property name="shotcut_aspect_den">1</property>
+    <property name="shotcut_resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0007_Layer-5.png</property>
+    <property name="autolength">0</property>
+    <property name="shotcut_sequence">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">31653abdc56704521078191b5f90e54c</property>
+    <property name="shotcut:caption">00PARALLAX_0007_Layer-5.png</property>
+    <filter id="filter0">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">0 0 5400 1080 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0007_Layer-5.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">31653abdc56704521078191b5f90e54c</property>
+    <property name="creation_time">2023-06-17T17:27:26</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0007_Layer-5.png</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter1" out="00:00:15.042">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 5400 1080 1;00:00:15.000=-500 0 5400 1080 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:00.000"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:15.042"/>
+  </playlist>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0006_Layer-3.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">de79dfdf8d8c8a3fc2e1d1c90d5b7701</property>
+    <property name="creation_time">2023-06-17T17:27:22</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0006_Layer-3.png</property>
+    <filter id="filter2" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=263.68 400 2229.51 592.198 1;00:00:15.083=-200 400 2229.51 592.198 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0005_Layer-9.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">4f521a0c7482059b11da3225c1560a91</property>
+    <property name="creation_time">2023-06-17T17:27:20</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0005_Layer-9.png</property>
+    <filter id="filter3" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 370 4886.4 782.277 1;00:00:15.000=-3000 370 4886.4 782.277 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter4" out="00:00:15.083">
+      <property name="mlt_service">avfilter.hue</property>
+      <property name="av.h">177</property>
+      <property name="av.b">-2.6</property>
+      <property name="av.s">0.97</property>
+    </filter>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0004_Layer-4.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">e438c50eee0692b0fcfa5352676c40fd</property>
+    <property name="creation_time">2023-06-17T17:27:18</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0004_Layer-4.png</property>
+    <filter id="filter5" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=4458 190.497 4458.24 938.828 1;00:00:07.958=0 190.497 4458.24 938.828 1;00:00:15.083=-2500 190.497 4458.24 938.828 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V4</property>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0004_Layer-4.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">e438c50eee0692b0fcfa5352676c40fd</property>
+    <property name="creation_time">2023-06-17T17:27:18</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0004_Layer-4.png</property>
+    <filter id="filter6" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 190.497 4458.24 938.828 1;00:00:07.958=-4458 190.497 4458.24 938.828 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist4">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V5</property>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0003_Layer-8.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">77cf7971fa747f90ccb5dfeca456110d</property>
+    <property name="creation_time">2023-06-17T17:27:16</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0003_Layer-8.png</property>
+    <filter id="filter7" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 850 4458.24 283.206 1;00:00:05.000=-4458 850 4458.24 283.206 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist5">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V6</property>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0003_Layer-8.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">77cf7971fa747f90ccb5dfeca456110d</property>
+    <property name="creation_time">2023-06-17T17:27:16</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0003_Layer-8.png</property>
+    <filter id="filter8" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=4458 850 4458.24 283.206 1;00:00:05.000=0 850 4458.24 283.206 1;00:00:10.000=-4458 850 4458.24 283.206 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist6">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V7</property>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0003_Layer-8.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">77cf7971fa747f90ccb5dfeca456110d</property>
+    <property name="creation_time">2023-06-17T17:27:16</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0003_Layer-8.png</property>
+    <filter id="filter9" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=4458 850 4458.24 283.206 1;00:00:05.000=4458 850 4458.24 283.206 1;00:00:10.000=0 850 4458.24 283.206 1;00:00:15.083=-4458 850 4458.24 283.206 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist7">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V8</property>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0003_Layer-8.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">77cf7971fa747f90ccb5dfeca456110d</property>
+    <property name="creation_time">2023-06-17T17:27:16</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0003_Layer-8.png</property>
+    <filter id="filter10" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=4458 850 4458.24 283.206 1;00:00:05.000=4458 850 4458.24 283.206 1;00:00:10.000=1920 850 4458.24 283.206 1;00:00:12.875=1920 850 4458.24 283.206 1;00:00:15.083=0 850 4458.24 283.206 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist8">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V9</property>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0002_Layer-1.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">fbed46289f4b98fc04974b309fd9df84</property>
+    <property name="creation_time">2023-06-17T17:27:14</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0002_Layer-1.png</property>
+    <filter id="filter11" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">1</property>
+      <property name="transition.rect">00:00:00.000=0 765 6000 281 1;00:00:15.083=-4080 765 6000 281 1;00:00:15.125=-4080 765 6000 281 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter12" out="00:00:15.083">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">0.75</property>
+      <property name="opacity">0.75</property>
+    </filter>
+    <filter id="filter13" out="00:00:15.083">
+      <property name="mlt_service">avfilter.hue</property>
+      <property name="av.h">0</property>
+      <property name="av.b">-3.2</property>
+      <property name="av.s">1</property>
+    </filter>
+  </producer>
+  <playlist id="playlist9">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V10</property>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0001_Layer-6.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">adc4a5a3fcdac7d631eaf16bf722dfdf</property>
+    <property name="creation_time">2023-06-17T17:27:12</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0001_Layer-6.png</property>
+    <property name="ignore_points">1</property>
+    <filter id="filter14" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 950 4458.24 188.138 1;00:00:05.000=-4458 950 4458.24 188.138 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist10">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V11</property>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0000_Layer-2.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">fdfab4897fb0c5c43bde55a2b07ff69a</property>
+    <property name="creation_time">2023-06-17T17:27:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0000_Layer-2.png</property>
+    <property name="ignore_points">1</property>
+    <filter id="filter15" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 4458.24 699.942 1;00:00:14.917=-500 0 4458.24 699.942 1;00:00:15.125=-500 0 4458.24 699.942 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter16" out="00:00:15.083">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">0.35</property>
+      <property name="opacity">0.35</property>
+    </filter>
+  </producer>
+  <playlist id="playlist11">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V12</property>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0001_Layer-6.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">adc4a5a3fcdac7d631eaf16bf722dfdf</property>
+    <property name="creation_time">2023-06-17T17:27:12</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0001_Layer-6.png</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter17" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=4458 950 4458.24 188.138 1;00:00:05.000=0 950 4458.24 188.138 1;00:00:10.000=-4458 950 4458.24 188.138 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist12">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V13</property>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0001_Layer-6.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">adc4a5a3fcdac7d631eaf16bf722dfdf</property>
+    <property name="creation_time">2023-06-17T17:27:12</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0001_Layer-6.png</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter18" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=4458 950 4458.24 188.138 1;00:00:05.000=4458 950 4458.24 188.138 1;00:00:10.000=0 950 4458.24 188.138 1;00:00:15.042=-4458 950 4458.24 188.138 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist13">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V14</property>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <producer id="producer24" in="00:00:00.000" out="03:59:59.958">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00PARALLAX_DECOMP/00PARALLAX_0001_Layer-6.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">adc4a5a3fcdac7d631eaf16bf722dfdf</property>
+    <property name="creation_time">2023-06-17T17:27:12</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00PARALLAX_0001_Layer-6.png</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter19" out="00:00:15.083">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=4458 950 4458.24 188.138 1;00:00:05.000=4458 950 4458.24 188.138 1;00:00:10.000=10000 950 4458.24 188.138 1;00:00:12.875=1920 950 4458.24 188.138 1;00:00:15.042=0 950 4458.24 188.138 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist14">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V15</property>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:15.083"/>
+  </playlist>
+  <chain id="chain1" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter20" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain2" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter21" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain3" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter22" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain4" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter23" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain5" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter24" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain6" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter25" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain7" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter26" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain8" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter27" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain9" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter28" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain10" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter29" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain11" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter30" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain12" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter31" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain13" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter32" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain14" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter33" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain15" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter34" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain16" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter35" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain17" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter36" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain18" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter37" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain19" out="00:00:00.750">
+    <property name="length">00:00:00.792</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00ANDAR-TRUE.gif</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2023-06-17T16:53:38</property>
+    <property name="shotcut:caption">00ANDAR-TRUE.gif</property>
+    <property name="shotcut:hash">5467d03a75d13e66c96843dc92d55ab4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter38" out="00:00:00.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">242.049 580.683 550.829 550.829 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <playlist id="playlist15">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V16</property>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain9" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain10" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain11" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain12" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain13" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain14" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain15" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain16" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain17" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain18" in="00:00:00.000" out="00:00:00.750"/>
+    <entry producer="chain19" in="00:00:00.000" out="00:00:00.750"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 23.06.14" in="00:00:00.000" out="00:00:15.083">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">3.17906</property>
+    <property name="shotcut:trackHeight">10</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <track producer="playlist2"/>
+    <track producer="playlist3"/>
+    <track producer="playlist4"/>
+    <track producer="playlist5"/>
+    <track producer="playlist6"/>
+    <track producer="playlist7"/>
+    <track producer="playlist8"/>
+    <track producer="playlist9"/>
+    <track producer="playlist10"/>
+    <track producer="playlist11"/>
+    <track producer="playlist12"/>
+    <track producer="playlist13"/>
+    <track producer="playlist14"/>
+    <track producer="playlist15"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">1</property>
+      <property name="b_track">3</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">1</property>
+      <property name="b_track">4</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition9">
+      <property name="a_track">1</property>
+      <property name="b_track">5</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition10">
+      <property name="a_track">0</property>
+      <property name="b_track">6</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition11">
+      <property name="a_track">1</property>
+      <property name="b_track">6</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition12">
+      <property name="a_track">0</property>
+      <property name="b_track">7</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition13">
+      <property name="a_track">1</property>
+      <property name="b_track">7</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition14">
+      <property name="a_track">0</property>
+      <property name="b_track">8</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition15">
+      <property name="a_track">1</property>
+      <property name="b_track">8</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition16">
+      <property name="a_track">0</property>
+      <property name="b_track">9</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition17">
+      <property name="a_track">1</property>
+      <property name="b_track">9</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition18">
+      <property name="a_track">0</property>
+      <property name="b_track">10</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition19">
+      <property name="a_track">1</property>
+      <property name="b_track">10</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition20">
+      <property name="a_track">0</property>
+      <property name="b_track">11</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition21">
+      <property name="a_track">1</property>
+      <property name="b_track">11</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition22">
+      <property name="a_track">0</property>
+      <property name="b_track">12</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition23">
+      <property name="a_track">1</property>
+      <property name="b_track">12</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition24">
+      <property name="a_track">0</property>
+      <property name="b_track">13</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition25">
+      <property name="a_track">1</property>
+      <property name="b_track">13</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition26">
+      <property name="a_track">0</property>
+      <property name="b_track">14</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition27">
+      <property name="a_track">1</property>
+      <property name="b_track">14</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition28">
+      <property name="a_track">0</property>
+      <property name="b_track">15</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition29">
+      <property name="a_track">1</property>
+      <property name="b_track">15</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="1">normal</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition30">
+      <property name="a_track">0</property>
+      <property name="b_track">16</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition31">
+      <property name="a_track">1</property>
+      <property name="b_track">16</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>

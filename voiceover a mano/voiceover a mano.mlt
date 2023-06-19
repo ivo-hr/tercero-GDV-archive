@@ -1,0 +1,495 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.17.0" title="Shotcut version 23.06.14" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1280" height="720" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="50" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0001_G.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d4fb70da9dbf3997f20184b1f6dceeac</property>
+    <property name="creation_time">2023-06-17T19:53:06</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0002_F.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">6a7de71c2e903adc9fe69550a16a59b5</property>
+    <property name="creation_time">2023-06-17T19:53:08</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0000_X.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">f20f7542581798542900b0953ad931c0</property>
+    <property name="creation_time">2023-06-17T19:53:04</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0003_E.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">e9eb41239961d59234fe140d09c39d30</property>
+    <property name="creation_time">2023-06-17T19:53:09</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0004_D.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">8a2c98aa31e736b17523e41bbf222519</property>
+    <property name="creation_time">2023-06-17T19:53:11</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0006_B.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">0bad8ee45eeca06b1ab94bcc0409bbd0</property>
+    <property name="creation_time">2023-06-17T19:53:14</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0007_A.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b179dcd50f9181d8feddcce64d7cfdab</property>
+    <property name="creation_time">2023-06-17T19:53:16</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0005_C.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">1f364a8f391053910c9d1056e63dfd03</property>
+    <property name="creation_time">2023-06-17T19:53:13</property>
+    <property name="xml">was here</property>
+  </producer>
+  <chain id="chain0" out="00:00:07.860">
+    <property name="length">00:00:07.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Admin/Documents/Sound recordings/Recording (11).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2023-06-17T19:55:11</property>
+    <property name="shotcut:caption">Recording (11).m4a</property>
+    <property name="shotcut:hash">f18b7fba2dea56b1415178c90c0219b9</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </chain>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:07.860"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:07.860">
+    <property name="length">00:00:07.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:07.860"/>
+  </playlist>
+  <chain id="chain1" out="00:00:07.860">
+    <property name="length">00:00:07.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Admin/Documents/Sound recordings/Recording (11).m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2023-06-17T19:55:11</property>
+    <property name="shotcut:caption">Recording (11).m4a</property>
+    <property name="shotcut:hash">f18b7fba2dea56b1415178c90c0219b9</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:07.860"/>
+  </playlist>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0000_X.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">f20f7542581798542900b0953ad931c0</property>
+    <property name="creation_time">2023-06-17T19:53:04</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0000_X.png</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0005_C.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">1f364a8f391053910c9d1056e63dfd03</property>
+    <property name="creation_time">2023-06-17T19:53:13</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0005_C.png</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0001_G.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d4fb70da9dbf3997f20184b1f6dceeac</property>
+    <property name="creation_time">2023-06-17T19:53:06</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0001_G.png</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0007_A.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b179dcd50f9181d8feddcce64d7cfdab</property>
+    <property name="creation_time">2023-06-17T19:53:16</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0007_A.png</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0005_C.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">1f364a8f391053910c9d1056e63dfd03</property>
+    <property name="creation_time">2023-06-17T19:53:13</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0005_C.png</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0002_F.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">6a7de71c2e903adc9fe69550a16a59b5</property>
+    <property name="creation_time">2023-06-17T19:53:08</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0002_F.png</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0007_A.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b179dcd50f9181d8feddcce64d7cfdab</property>
+    <property name="creation_time">2023-06-17T19:53:16</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0007_A.png</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0000_X.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">f20f7542581798542900b0953ad931c0</property>
+    <property name="creation_time">2023-06-17T19:53:04</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0000_X.png</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0000_X.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">f20f7542581798542900b0953ad931c0</property>
+    <property name="creation_time">2023-06-17T19:53:04</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0000_X.png</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0005_C.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">1f364a8f391053910c9d1056e63dfd03</property>
+    <property name="creation_time">2023-06-17T19:53:13</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0005_C.png</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0001_G.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d4fb70da9dbf3997f20184b1f6dceeac</property>
+    <property name="creation_time">2023-06-17T19:53:06</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0001_G.png</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0000_X.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">f20f7542581798542900b0953ad931c0</property>
+    <property name="creation_time">2023-06-17T19:53:04</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0000_X.png</property>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0005_C.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">1f364a8f391053910c9d1056e63dfd03</property>
+    <property name="creation_time">2023-06-17T19:53:13</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0005_C.png</property>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0007_A.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b179dcd50f9181d8feddcce64d7cfdab</property>
+    <property name="creation_time">2023-06-17T19:53:16</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0007_A.png</property>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0007_A.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b179dcd50f9181d8feddcce64d7cfdab</property>
+    <property name="creation_time">2023-06-17T19:53:16</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0007_A.png</property>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0006_B.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">0bad8ee45eeca06b1ab94bcc0409bbd0</property>
+    <property name="creation_time">2023-06-17T19:53:14</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0006_B.png</property>
+  </producer>
+  <producer id="producer24" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0001_G.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d4fb70da9dbf3997f20184b1f6dceeac</property>
+    <property name="creation_time">2023-06-17T19:53:06</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0001_G.png</property>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0002_F.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">6a7de71c2e903adc9fe69550a16a59b5</property>
+    <property name="creation_time">2023-06-17T19:53:08</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0002_F.png</property>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">F:/Docs/0Uni/3o/anim2d3d/00LIPSYNC_DECOMP/00LIPSINC-TRUE_0007_A.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b179dcd50f9181d8feddcce64d7cfdab</property>
+    <property name="creation_time">2023-06-17T19:53:16</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00LIPSINC-TRUE_0007_A.png</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <blank length="00:00:01.660"/>
+    <entry producer="producer8" in="00:00:01.700" out="00:00:01.780"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:00.080"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:00.080"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:00.080"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:00.060"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:00.080"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:01.080"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:00.080"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:00.080"/>
+    <entry producer="producer17" in="00:00:03.720" out="00:00:03.780"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:00.180"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:00.080"/>
+    <entry producer="producer20" in="00:00:03.140" out="00:00:03.380"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:00.540"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:00.140"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:00.180"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:00.080"/>
+    <entry producer="producer25" in="00:00:00.000" out="00:00:00.120"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:00:02.520"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 23.06.14" in="00:00:00.000" out="00:00:07.860">
+    <property name="shotcut">1</property>
+    <property name="shotcut:scaleFactor">2.52546</property>
+    <property name="shotcut:trackHeight">30</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
