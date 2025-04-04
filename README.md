@@ -1,2 +1,2 @@
-# el repo de tercero del puto henrie
+# el repo de tercero :(
 *sad estudiante noises*
